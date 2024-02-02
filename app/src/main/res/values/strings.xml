@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Week3Live</string>
+    <string name="alert_dialog_title">Alert Dialog Title String</string>
+    <string-array name="list_items">
+        <item> Item 1</item>
+        <item> Item 2</item>
+        <item> Item 3</item>
+    </string-array>
+</resources>
